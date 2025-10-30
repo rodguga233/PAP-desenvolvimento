@@ -1,3 +1,22 @@
-# PAP-desenvolvimento
-Este projeto simula o desenvolvimento de uma aplicação web para gestão de tarefas, utilizando GitHub para controlo de versão e colaboração.
-A aplicação web vai ser multi-utilizador. Antes de entrar no site, encontra-se uma página de autenticação, onde cada utilizador entra com a sua conta ou cria uma, caso não a tenha. Na interface vão aparecer todas as notas que o utilizador tem criado, tais como a opção de criar novas tarefas referindo a sua categoria (Ex: Casa, Trabalho, Estudo) e indicar uma hora para essa tarefa ser feita, caso o utilizador tenha permitido receber notificações, apagar notas ou marcá-las como concluídas. Além disso, o utilizador pode editar os seus dados como mudar o nome, alterar foto de perfil, alterar o email e a sua password e habilitar ou desabilitar a funcionalidade de receber notificações.
+# PAP-Organizador de Tarefas
+A aplicação web tem como objetivo ajudar os utilizadores a organizar tarefas e notas de forma simples e acessível, permitindo gerir compromissos do dia a dia em qualquer dispositivo.
+
+## Funcionalidades
+
+- Autenticação segura: criar conta, iniciar sessão e gerir acesso.
+
+- Gestão de tarefas: criar, editar, eliminar, concluir e categorizar (Casa, Trabalho, Estudo).
+
+- Agendamento: definir hora para execução das tarefas.
+
+- Notificações: ativar/desativar lembretes de tarefas.
+
+- Gestão de perfil: alterar nome, email, password e foto de perfil.
+
+- Sincronização em tempo real: dados sempre atualizados na cloud.
+
+## Tecnologias
+
+- HTML, CSS, JavaScript → estrutura, estilo e interatividade.
+
+- Firebase → autenticação, armazenamento e sincronização.
